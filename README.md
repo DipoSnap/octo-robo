@@ -4,7 +4,7 @@
 
 # Camera Kit for Android
 
-[Home Page](https://developers.snap.com/camera-kit/home) | [Documentation & Guides](https://developers.snap.com/camera-kit/getting-started/what-is-camera-kit) | [Showcase](https://ar.snap.com/camera-kit) | [API Reference](https://kit.snapchat.com/reference/CameraKit/android/1.35.0/index.html) | [Developer Portal](https://kit.snapchat.com/manage/) | [My Lenses](https://my-lenses.snapchat.com/) | [Discord](https://discord.gg/snapar)
+[Home Page](https://developers.snap.com/camera-kit/home) | [Documentation & Guides](https://developers.snap.com/camera-kit/getting-started/what-is-camera-kit) | [Showcase](https://ar.snap.com/camera-kit) | [API Reference](https://kit.snapchat.com/reference/CameraKit/android/1.41.0/index.html) | [Developer Portal](https://kit.snapchat.com/manage/) | [My Lenses](https://my-lenses.snapchat.com/) | [Discord](https://discord.gg/snapar)
 </div>
 
 Camera Kit brings the power of Snap's AR platform to your websites and mobile apps on iOS and Android. It has never been easier to create and deliver scalable, multi-platform AR experiences to meet your customers, wherever they are.
@@ -136,6 +136,8 @@ This project includes several sample apps that demonstrate different approaches 
 
 - [`camerakit-sample-basic`](./Samples/camerakit-sample-basic) demonstrates simplest and bare minimum 
     way to integrate Camera Kit.
+- [`camerakit-sample-compose-basic`](./Samples/camerakit-sample-compose-basic) demonstrates simplest and bare minimum 
+    way to integrate Camera Kit via Jetpack Compose.
 - [`camerakit-sample-full`](./Samples/camerakit-sample-full) contains a fully functioning camera capture with lenses and preview flow.
 - [`camerakit-sample-custom-video`](./Samples/camerakit-sample-custom-video) demonstrates how to set up a custom video/audio encoding and audio source implementation.
 - [`camerakit-sample-custom-input`](./Samples/camerakit-sample-custom-input) demonstrates how to setup a custom input to the Camera Kit's processing pipeline.
@@ -166,5 +168,5 @@ The following is a list of common issues and suggestions on how to troubleshoot 
 
 - Attach debugger to your app, enable Java exception breakpoints and build a `Session` while checking that there are no unexpected exceptions with stacktraces related to Camera Kit.
 - Attach debugger to your app, pause all threads and export their state into a text file - check that there are no deadlocked threads related to Camera Kit.
-- Check Camera Kit [FAQ page](https://docs.snap.com/camera-kit/faq).
+- Check out the Camera Kit [FAQ page](https://docs.snap.com/camera-kit/faq).
 - Need extra support? [Check our support page](https://docs.snap.com/camera-kit/support)

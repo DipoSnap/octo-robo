@@ -8,6 +8,33 @@ and the Camera Kit SDK adheres to [Semantic Versioning](https://semver.org/spec/
 <a name="unreleased"></a>
 ## [Unreleased]
 
+<a name="1.40.0"></a>
+## [1.40.0] - 2025-04-03
+### Features
+- Lens Studio 5.8 support
+
+### Updates
+- **Android/iOS:** Improvement for HTTP request validation, now accepting empty optional parameters
+<a name="1.39.0"></a>
+## [1.39.0] - 2025-03-05
+### Features
+- Lens Studio 5.7 support
+<a name="1.38.0"></a>
+## [1.38.0] - 2025-02-05
+### Features
+- Lens Studio 5.6 support
+
+### Updates
+- Addition of Jetpack compose basic sample app
+
+<a name="1.37.0"></a>
+## [1.37.0] - 2024-12-18
+### Features
+- Lens Studio 5.4 support
+- Support for Lens HTTP requests
+
+<a name="1.36.1"></a>
+## [1.36.1] - 2024-11-22
 <a name="1.36.0"></a>
 ## [1.36.0] - 2024-11-14
 ### Features
