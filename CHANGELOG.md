@@ -8,6 +8,74 @@ and the Camera Kit SDK adheres to [Semantic Versioning](https://semver.org/spec/
 <a name="unreleased"></a>
 ## [Unreleased]
 
+<a name="1.46.0"></a>
+## [1.46.0] - 2025-12-16
+
+<a name="1.45.0"></a>
+## [1.45.0] - 2025-11-13
+### Features
+- Lens Studio 5.16 support
+
+### Updates
+- A Lens WarmUp API to preload a lens without rendering it
+
+### Bug Fixes
+- Fixed an issue that allowed Surfaces usage after the Session had been released in Camera Kit
+
+<a name="1.44.0"></a>
+## [1.44.0] - 2025-10-17
+### Features
+- Lens Studio 5.15 support
+
+<a name="1.43.0"></a>
+## [1.43.0] - 2025-09-08
+### Features
+- Lens Studio 5.13 support
+
+<a name="1.42.0"></a>
+## [1.42.0] - 2025-07-23
+### Features
+- Lens Studio 5.12 support
+
+### Updates
+- 16KB page size support
+
+<a name="1.41.0"></a>
+## [1.41.0] - 2025-06-23
+### Features
+- Lens Studio 5.11 support
+
+### Bug Fixes
+- Fixed memory leak related to lens keyboard
+- **Android/iOS:** Minor fixes
+
+<a name="1.40.0"></a>
+## [1.40.0] - 2025-04-03
+### Features
+- Lens Studio 5.8 support
+
+### Updates
+- **Android/iOS:** Improvement for HTTP request validation, now accepting empty optional parameters
+<a name="1.39.0"></a>
+## [1.39.0] - 2025-03-05
+### Features
+- Lens Studio 5.7 support
+<a name="1.38.0"></a>
+## [1.38.0] - 2025-02-05
+### Features
+- Lens Studio 5.6 support
+
+### Updates
+- Addition of Jetpack compose basic sample app
+
+<a name="1.37.0"></a>
+## [1.37.0] - 2024-12-18
+### Features
+- Lens Studio 5.4 support
+- Support for Lens HTTP requests
+
+<a name="1.36.1"></a>
+## [1.36.1] - 2024-11-22
 <a name="1.36.0"></a>
 ## [1.36.0] - 2024-11-14
 ### Features
