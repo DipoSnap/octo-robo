@@ -9,7 +9,7 @@ and the Camera Kit SDK adheres to [Semantic Versioning](https://semver.org/spec/
 ## [Unreleased]
 
 <a name="1.46.0"></a>
-## [1.46.0] - 2025-12-16
+## [1.46.0] - 2025-12-18
 
 <a name="1.45.0"></a>
 ## [1.45.0] - 2025-11-13
