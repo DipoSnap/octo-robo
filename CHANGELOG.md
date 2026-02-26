@@ -8,15 +8,22 @@ and the Camera Kit SDK adheres to [Semantic Versioning](https://semver.org/spec/
 <a name="unreleased"></a>
 ## [Unreleased]
 
+<a name="1.47.0"></a>
+## [1.47.0] - 2026-02-26
+
 <a name="1.46.0"></a>
-## [1.46.0] - 2025-12-16
+## [1.46.0] - 2026-02-11
+
 ### Features
-- Lens Studio 5.19 support
+- Lens Studio 5.18 support
+
+### Updates
+- Android target version updated to 36
 
 <a name="1.45.0"></a>
-## [1.45.0] - 2025-11-13
+## [1.45.0] - 2025-12-18
 ### Features
-- Lens Studio 5.16 support
+- Lens Studio 5.17 support
 
 ### Updates
 - A Lens WarmUp API to preload a lens without rendering it
